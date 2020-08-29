@@ -1,5 +1,5 @@
 # Olá, seja Bem-vindo(a)!
-----
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/luanaaredes)](www.linkedin.com/in/luanaaredes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanaaredes@gmail.com)](mailto:luanaaredes@gmail.com)
 
@@ -25,6 +25,8 @@ São Paulo, SP 📍 <br>
 #### Minhas estatísticas no Github 📊 
    
 ![Luana GitHub Stats](https://github-readme-stats.vercel.app/api?username=luana-aredes&show_icons=true)
+
+----
 
 ##### Obrigada pela visita! 👋 
 
