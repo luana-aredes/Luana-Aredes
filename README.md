@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá, seja Bem-vindo(a)!
+----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/luanaaredes)](www.linkedin.com/in/luanaaredes)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanaaredes@gmail.com)](mailto:luanaaredes@gmail.com)
 
-<!--
-**luana-aredes/luana-aredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+## Meu nome é Luana, tenho 28 anos e aqui estão algumas informações sobre mim 📜 <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Front-end na <Laboratória> 👩🏽‍💻 <br>
+Apaixonada por tecnologia ❤️ <br>
+Mineira e mante de pão de queijo 🧀 <br>
+São Paulo, SP 📍 <br>
+
+----
+#### Linguagens e ferramentas
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+----
+
+#### Minhas estatísticas no Github 📊 
+   
+![Luana GitHub Stats](https://github-readme-stats.vercel.app/api?username=luana-aredes&show_icons=true)
+
+##### Obrigada pela visita! 👋 
+
+----
+
