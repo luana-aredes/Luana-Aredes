@@ -9,7 +9,7 @@
 
 Estudante de Front-end na <Laboratória> 👩🏽‍💻 <br>
 Apaixonada por tecnologia ❤️ <br>
-Mineira e mante de pão de queijo 🧀 <br>
+Mineira 💛 <br>
 São Paulo, SP 📍 <br>
 
 ----
