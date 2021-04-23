@@ -5,14 +5,6 @@
 
 ----
 
-## Meu nome é Luana, tenho 28 anos e aqui estão algumas informações sobre mim 📜 <br>
-
-Estudante de Front-end na <Laboratória> 👩🏽‍💻 <br>
-Apaixonada por tecnologia ❤️ <br>
-Mineira 💛 <br>
-São Paulo, SP 📍 <br>
-
-----
 #### Linguagens e ferramentas
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
